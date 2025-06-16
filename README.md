@@ -1,13 +1,13 @@
-# Astro & Tailwind CSS Starter Kit
+# & Tailwind CSS Starter Kit
 
-by https://lexingtonthemes.com
+by https://brian-dominguez.dev
 
 ## License
 
 This template is open-source software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0). Feel free to fork, modify, and use it in your projects.
+
 ## Need an attribution-free version?
 
-Checkout [Lexington Themes](https://lexingtonthemes.com/) for free and premium multipage themes & UI Kits
 For freelancers, developers, businesses, and personal use.
 Beautifully crafted with Astro.js, and Tailwind CSS — Simple & easy to customise.
 
@@ -37,7 +37,7 @@ Remember this is just in Alpha version, so you can use it as you want. Just keep
 
 ## Template Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of your project, you'll see the following folders and files:
 
 ```
 /
@@ -48,7 +48,7 @@ Inside of your Astro project, you'll see the following folders and files:
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
@@ -65,8 +65,9 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`        | Build your production site to `./dist/`          |
 | `npm run preview`      | Preview your build locally, before deploying     |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
+| `npm run astro --help` | Get help using the CLI                           |
 
 ## Want to learn more?
 
 Feel free to check Astro's [documentation](https://docs.astro.build)
+
